@@ -1,0 +1,55 @@
+﻿X,Y,OBJECTID,NAME,LOCATION,CITY,PUBLIC_OWN,DEDICATED,CONTRACT,TOTAL_AUTO_SPACES,COVERED_SPACES,TOTAL_BIKE_SPACES,BIKE_LOCKERS,BIKE_RACKS,ROUTE_1,ROUTE_2,ROUTE_3,ROUTE_4,ROUTE_5,ROUTE_6,ROUTE_7,ROUTE_8,Long,Lat,Address
+-112.179775641109,33.6549653400007,1,Foothills Recreation & Aquatic Center,Union Hills Rd & 55th Ave,Glendale,No,No,No,NA,NA,NA,NA,NA,573,575,186,<Null>,<Null>,<Null>,NA,NA,-112.17977564,33.65496534,
+-112.186178291347,33.5422225659967,2,Glendale City Lot,59th Ave and Myrtle Ave,Glendale,Yes,No,No,109,0,0,0,0,17,72,514,<Null>,<Null>,<Null>,NA,NA,-112.18617829,33.54222257,
+-111.921493261712,33.4654911594289,3,SkySong Park-and-Ride,74th St and McDowell Rd,Scottsdale,No,No,Yes,5,NA,NA,NA,NA,541,112,140,<Null>,<Null>,<Null>,NA,NA,-111.92149326,33.46549116,
+-111.8405393697,33.3213508631873,4,Food City Plaza,Arizona Ave and Ray Rd,Chandler,No,No,No,NA,NA,NA,NA,NA,I-17 RAPID,27,35,90,106,<Null>,NA,NA,-111.84053937,33.32135086,
+-111.859543343979,33.3346786004828,5,Carl's Jr.,Warner Rd and Alma School Rd,Chandler,No,No,No,NA,NA,NA,NA,NA,56,108,<Null>,<Null>,<Null>,<Null>,NA,NA,-111.85954334,33.3346786,
+-112.123521655172,33.5727763702774,6,Metrocenter Transit Center,Mission Ln and Metro Park W,Phoenix,Yes,Yes,No,215,194,8,4,4,17,514,MLHD,68th Street/Camelback Trolley,<Null>,<Null>,NA,NA,-112.12352166,33.57277637,9617 N Metro Parkway East
+-111.961973625014,33.3482199384545,7,Costco - Tempe,Priest Dr and Elliot Rd,Tempe,No,No,No,NA,NA,NA,NA,NA,514,68th Street/Camelback Trolley,<Null>,<Null>,<Null>,<Null>,NA,NA,-111.96197363,33.34821994,
+-111.912076794621,33.3339849658092,8,Cobblestone Village,Warner Rd and McClintock Dr,Tempe,No,No,No,NA,NA,NA,NA,NA,68th Street/Camelback Trolley,<Null>,<Null>,<Null>,<Null>,<Null>,NA,NA,-111.91207679,33.33398497,
+-111.953945641313,33.3365462243135,9,Tempe Sports Complex,Hardy Dr and Warner Rd,Tempe,Yes,No,No,NA,NA,NA,NA,NA,170,Mustang,<Null>,<Null>,<Null>,<Null>,NA,NA,-111.95394564,33.33654622,
+-111.92575963485,33.450106712525,10,Food City Plaza,Scottsdale Rd and McKellips Rd,Tempe,No,No,No,NA,NA,NA,NA,NA,30,70,77,SME RAPID,<Null>,<Null>,NA,NA,-111.92575963,33.45010671,
+-111.900760558637,33.4662076647966,11,Granite Reef Senior Center Park-and-Ride,Granite Reef Rd and McDowell Rd,Scottsdale,No,No,Yes,3,NA,NA,NA,NA,Light Rail,81,<Null>,<Null>,<Null>,<Null>,NA,NA,-111.90076056,33.46620766,
+-111.879420390412,33.5102351609551,12,Scottsdale Community College,Chaparral Rd and 92nd St,Scottsdale,Yes,No,No,NA,NA,NA,NA,NA,Light Rail,19,50,<Null>,<Null>,<Null>,NA,NA,-111.87942039,33.51023516,9000 E Chaparral Road
+-111.918055522525,33.4999417844783,13,Miller Plaza,Montecito Ave and Miller Rd,Scottsdale,No,No,No,NA,NA,NA,NA,NA,Light Rail,1,32,<Null>,<Null>,<Null>,NA,NA,-111.91805552,33.49994178,
+-111.90196699736,33.6234578388778,14,Costco - Scottsdale,83rd Pl and Butherus Dr,Scottsdale,No,No,No,NA,NA,NA,NA,NA,19,35,77,SMW RAPID,<Null>,<Null>,NA,NA,-111.901967,33.62345784,
+-111.908314977433,33.5175587855672,15,Chaparral Park,Hayden Rd and Jackrabbit Rd,Scottsdale,No,No,No,NA,NA,NA,NA,NA,SR 51 RAPID,16,39,80,<Null>,<Null>,NA,NA,-111.90831498,33.51755879,
+-111.722590946865,33.6023917571322,16,Fountain Hills Park-and-Ride,12901 N. La Montana Dr,Fountain Hills,Yes,Yes,No,120,0,1,0,1,Grand Ave Limited,106,83,<Null>,<Null>,<Null>,NA,NA,-111.72259095,33.60239176,12901 N. La Montana Dr
+-112.338042311077,33.6096386883852,17,El Mirage Walmart,129th Ave & Thunderbird,El Mirage,No,No,Yes,42,0,NA,NA,NA,I-10 East Rapid,ALEX,<Null>,<Null>,<Null>,<Null>,NA,NA,-112.33804231,33.60963869,
+-111.907643683709,33.3788335363518,18,Target Shopping Center,McClintock Rd and Baseline Rd,Tempe,No,No,No,NA,NA,NA,NA,NA,SMART,0,8,12,90,106,NA,NA,-111.90764368,33.37883354,
+-111.918149548078,33.3935720096057,19,Grace Community Church,Southern Ave and Dorsey Ln,Tempe,No,No,No,NA,NA,NA,NA,NA,Light Rail,30,40,96,<Null>,<Null>,NA,NA,-111.91814955,33.39357201,
+-112.100952926225,33.5669254225591,20,Dunlap / 19th Ave Park-and-Ride,19th Ave/Dunlap ,Phoenix,Yes,Yes,No,415,0,16,0,16,531,541,<Null>,<Null>,<Null>,<Null>,NA,NA,-112.10095293,33.56692542,1927 W Dunlap
+-112.228667363187,33.4781088472794,21,Desert Sky Park-and-Ride,79th Ave/Thomas Rd,Phoenix,Yes,Yes,No,70,70,11,4,7,40,45,136,<Null>,<Null>,<Null>,NA,NA,-112.22866736,33.47810885,
+-112.028998096653,33.379557292347,22,24th St & Baseline Park-and-Ride,24th Street & Baseline Rd,Phoenix,Yes,Yes,No,209,209,8,NA,8,30,70,77,SME RAPID,NA,NA,NA,NA,-112.0289981,33.37955729,
+-111.82216457449,33.4156447299162,23,Mesa Dr / Main St Park-and-Ride,Mesa Dr & Main St,Mesa,Yes,Yes,No,448,0,0,0,12,Light Rail,40,120,NA,NA,NA,NA,NA,-111.82216457,33.41564473,440 E Main St
+-111.924767762962,33.6105062625741,24,Scottsdale Park-and-Ride,Scottsdale Rd and Thunderbird Rd,Scottsdale,Yes,Yes,No,275,173,5,0,5,72,154,NA,NA,NA,NA,NA,NA,-111.92476776,33.61050626,13665 N Scottsdale Rd
+-112.346307123802,33.6379749198996,25,Surprise Park-and-Ride,Grand Ave and Bell Rd,Surprise,Yes,Yes,No,230,216,3,0,3,571,NA,NA,NA,NA,NA,NA,NA,-112.34630712,33.63797492,13327 W Bell Rd
+-111.917697455838,33.4155208512493,26,Apache & Dorsey Park-and-Ride,Apache Blvd and Dorsey Ln,Tempe,Yes,Yes,No,190,0,6,0,6,Light Rail,NA,NA,NA,NA,NA,NA,NA,-111.91769746,33.41552085,1215 S Dorsey Lane
+-111.908585502074,33.4138958831278,27,McClintock Dr. & Apache Blvd. Park-and-Ride,McClintock Dr and Apache Blvd,Tempe,Yes,Yes,No,300,249,24,0,24,Light Rail,81,NA,NA,NA,NA,NA,NA,-111.9085855,33.41389588,1811 E Apache Blvd
+-111.88968471565,33.4138825730204,28,Price-101 Fwy/Apache Blvd Park-and-Ride,Loop 101 and Apache Blvd,Tempe,Yes,Yes,No,693,0,6,0,6,Light Rail,40,NA,NA,NA,NA,NA,NA,-111.88968472,33.41388257,2235 E Apache Blvd
+-112.09867746891,33.5187166317478,29,19th Ave and Montebello Park-and-Ride,Montebello Ave and 19th Ave,Phoenix,Yes,Yes,No,794,0,8,0,8,Light Rail,15,19,60,NA,NA,NA,NA,-112.09867747,33.51871663,1825 W Montebello Ave
+-112.098718887089,33.50905241153,30,19th Ave and Camelback Park-and-Ride,19th Ave and Camelback Rd,Phoenix,Yes,Yes,No,410,287,1,0,1,Light Rail,19,50,NA,NA,NA,NA,NA,-112.09871889,33.50905241,1827 W Camelback Rd
+-111.999390540938,33.4487037753055,31,Washington & 38th St Park-and-Ride,Washington St and 38th St,Phoenix,Yes,Yes,No,190,0,2,0,2,Light Rail,1,32,NA,NA,NA,NA,NA,-111.99939054,33.44870378,3763 E Washington St
+-112.078120008972,33.5089504241534,32,Central & Camelback Park-and-Ride,Central Ave and Camelback Rd,Phoenix,Yes,Yes,No,135,114,4,0,4,Light Rail,0,50,NA,NA,NA,NA,NA,-112.07812001,33.50895042,169 W Camelback Rd
+-112.120167278154,33.7103958052084,33,Happy Valley Rd Park-and-Ride,Happy Valley Rd and 29th Ave,Phoenix,Yes,Yes,No,512,512,7,4,3,I-17 Rapid,35,NA,NA,NA,NA,NA,NA,-112.12016728,33.71039581,24725 N 29th Ave
+-112.080634810037,33.5089878931534,34,7th Ave & Camelback Rd Park-and-Ride,7th Ave and Camelback Rd,Phoenix,Yes,Yes,No,123,77,4,0,4,Light Rail,8,50,NA,NA,NA,NA,NA,-112.08063481,33.50898789,519 W Camelback Rd
+-112.11709359904,33.3771529791949,35,27th Ave & Baseline Park-and-Ride,27th Ave and Baseline Rd,Phoenix,Yes,Yes,No,212,212,8,8,0,19,35,77,25SMW RAPID,NA,NA,NA,NA,-112.1170936,33.37715298,7610 S 27th Ave
+-112.011482813614,33.5806467008671,36,Shea/SR-51 (Dreamy Draw) Park-and-Ride,32nd St and Shea Blvd,Phoenix,Yes,Yes,No,370,344,19,5,14,SR 51 RAPID,16,39,80,NA,NA,NA,NA,-112.01148281,33.5806467,10418 N 33rd St
+-112.239807197139,33.5799338740839,37,Peoria Park-and-Ride,Jefferson St and  84th Ave,Peoria,Yes,Yes,No,82,0,12,0,6,Grand Ave Limited,83,106,NA,NA,NA,NA,NA,-112.2398072,33.57993387,8410 W Jefferson St
+-112.11764345416,33.6388033555736,38,Bell/I-17 (Deer Valley) Park-and-Ride,Bell Road and 29th Ave,Phoenix,Yes,Yes,No,350,340,15,8,7,I-17 RAPID,27,170,NA,NA,NA,NA,NA,-112.11764345,33.63880336,16808 N Black Canyon Hwy
+-112.004475351926,33.6392666120076,39,Bell Rd/SR 51 Park-and-Ride,36th St and Bell Rd,Phoenix,Yes,Yes,No,377,377,10,10,0,SR 51 RAPID,170,NA,NA,NA,NA,NA,NA,-112.00447535,33.63926661,3598 E Phelps Rd
+-111.998888615988,33.2932602838281,40,40th St and Pecos Rd Park-and-Ride,40th St and Pecos Rd,Phoenix,Yes,Yes,No,906,562,12,12,0,I-10 East Rapid,ALEX,NA,NA,NA,NA,NA,NA,-111.99888862,33.29326028,16864 S 40th St
+-112.069099736866,33.5668523241792,41,Sunnyslope TC &  Park-and-Ride,3rd St and Dunlap Ave,Phoenix,Yes,Yes,No,45,45,4,4,0,SMART,0,8,12,90,106,NA,NA,-112.06909974,33.56685232,8930 N 3rd St
+-112.228516171383,33.4644816725258,42,79th Ave/ I-10 Park-and-Ride,79th Ave and McDowell Rd,Phoenix,Yes,Yes,No,607,607,14,4,10,I-10 West RAPID,17,NA,NA,NA,NA,NA,NA,-112.22851617,33.46448167,1509 N 79th Ave
+-112.305150725118,33.4562297150838,43,Avondale Park-and-Ride,Avondale Blvd and Roosevelt St,Avondale,Yes,Yes,No,370,107,0,6,0,563,NA,NA,NA,NA,NA,NA,NA,-112.30515073,33.45622972,11390 W Dale Earnhardt Dr
+-112.480129904903,33.4689760517465,44,Buckeye Park-and-Ride,Jackrabbit Trail and Palm Ln,Buckeye,Yes,Yes,No,250,80,0,0,0,563,NA,NA,NA,NA,NA,NA,NA,-112.4801299,33.46897605,1901 N Jackrabbit Trail
+-111.833661750318,33.2757077283999,45,Chandler Park-and-Ride,Hamilton St and Germann Rd,Chandler,Yes,Yes,No,460,156,11,4,7,542,112,NA,NA,NA,NA,NA,NA,-111.83366175,33.27570773,2100 S Hamilton St
+-111.792538988622,33.3548735826695,46,Gilbert Park-and-Ride,Page Ave and Oak St,Gilbert,Yes,No,No,250,85,18,6,12,136,531,NA,NA,NA,NA,NA,NA,-111.79253899,33.35487358,216 N Oak St
+-112.271586943258,33.5389116708925,47,Glendale Park-and-Ride,99th Ave and Glendale Ave,Glendale,Yes,Yes,No,388,345,8,4,4,573,70,NA,NA,NA,NA,NA,NA,-112.27158694,33.53891167,7099 N 99th Ave
+-112.343578031565,33.4600024844954,48,Goodyear Park-and-Ride,Cornerstone Blvd and Dysart Rd,Goodyear,Yes,Yes,No,400,328,8,8,0,562,NA,NA,NA,NA,NA,NA,NA,-112.34357803,33.46000248,13183 W Cornerstone Blvd
+-111.6888048665,33.3874758932061,49,Superstitions Springs Park-and-Ride,Southern Ave and Power Rd,Mesa,Yes,Yes,No,200,0,20,8,12,40,45,61,108,184,533,NA,NA,-111.68880487,33.38747589,6555 E Southern Ave
+-111.870359143975,33.4165064123821,50,Main St. & Sycamore Park-and-Ride,Main St and Sycamore,Mesa,Yes,Yes,No,802,0,13,1,12,Light Rail,30,40,96,NA,NA,NA,NA,-111.87035914,33.41650641,107 N Sycamore
+-111.683506487252,33.4715251966722,51,Power Rd Park-and-Ride,Power Rd and Preston St,Mesa,Yes,Yes,No,194,23,24,12,12,184,535,NA,NA,NA,NA,NA,NA,-111.68350649,33.4715252,3201 N Power Rd
+-111.786053249425,33.4673866160336,52,Gilbert Rd and McDowell Rd Park-and-Ride,Gilbert Rd and McDowell Rd,Mesa,Yes,Yes,No,220,0,16,8,8,136,535,NA,NA,NA,NA,NA,NA,-111.78605325,33.46738662,2831 N Gilbert Road 
+-111.841772073491,33.3815856224945,53,West Mesa Park-and-Ride,Juanita Ave/Country Club Dr,Mesa,Yes,Yes,No,305,0,20,8,12,521,541,NA,NA,NA,NA,NA,NA,-111.84177207,33.38158562,461 W Juanita Ave
+-111.790021761068,33.4150112839638,54,Gilbert Rd/Main St Park and Ride,Gilbert Rd and Main St,Mesa,Yes,Yes,No,,,,,,40,45,136,NA,NA,NA,NA,NA,-111.79002176,33.41501128,
