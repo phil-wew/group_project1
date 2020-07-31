@@ -1,0 +1,7 @@
+Month,ROUTE,CITY,Avg Full Fare,Avg Exp Fare,Avg Reduced Fare,Avg Full Fare Pass,Avg Reduced Pass,Avg Monthly Pass,Avg Free,Avg Bikes,Avg W/C, Avg Daily Boardings, Total Boardings ,Daily Revenue Miles,Total Rev. Miles,Boardings Per Rev Mile,2019 - Avg Daily,% Difference
+Jan,Valley Metro Rail,Tempe,,,,,,,,,,"21,036","258,510","5,271","58,636",11.9,"21,834",-10%
+Feb,Valley Metro Rail,Tempe,,,,,,,,,,"22,896","269,481","5,318","55,622",13,"22,004",11%
+March,Valley Metro Rail,Tempe,,,,,,,,,,"16,458","190,703","5,292","58,867",10,"24,123",-95%
+April,Valley Metro Rail,Tempe,,,,,,,,,,"9,670","105,283","2,911","30,905",10,"23,282",-170%
+May,Valley Metro Rail,Tempe,,,,,,,,,,"6,514","90,722","3,097","41,619",4,"12,749",-94%
+June,Valley Metro Rail,Tempe,,,,,,,,,,"6,193","88,446","3,097","42,008",4,"11,839",-92%

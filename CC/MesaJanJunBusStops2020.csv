@@ -1,0 +1,7 @@
+Month,ROUTE,CITY,Avg Full Fare,Avg Exp Fare,Avg Reduced Fare,Avg Full Fare Pass,Avg Reduced Pass,Avg Monthly Pass,Avg Free,Avg Bikes,Avg W/C, Avg Daily Boardings, Total Boardings ,Daily Revenue Miles,Total Rev. Miles,Boardings Per Rev Mile,2019 - Avg Daily,% Difference
+Jan,Valley Metro Rail,Mesa,,,,,,,,,,"19,290","226,048","5,505","61,238",10.6,"16,759",46%
+Feb,Valley Metro Rail,Mesa,,,,,,,,,,"20,577","224,408","5,554","58,089",11,"16,735",71%
+March,Valley Metro Rail,Mesa,,,,,,,,,,"15,017","168,706","5,526","61,478",9,"17,294",-39%
+April,Valley Metro Rail,Mesa,,,,,,,,,,"10,526","114,029","3,040","32,277",11,"17,015",-113%
+May,Valley Metro Rail,Mesa,,,,,,,,,,"6,910","95,414","3,234","43,467",4,"11,479",-78%
+June,Valley Metro Rail,Mesa,,,,,,,,,,"6,342","90,399","3,234","43,875",4,"11,557",-89%
